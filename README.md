@@ -22,5 +22,3 @@ A maratona, ministrada pelo Thiago Moraes, especialista Power BI e Sócio e Fund
 <center><img src="https://user-images.githubusercontent.com/67449365/97936331-f256c600-1d59-11eb-86ff-c69badfcbf51.jpg" alt="" width="800"></center>
 
 <center><img src="https://user-images.githubusercontent.com/67449365/97936333-f256c600-1d59-11eb-8ae0-70889224d2d5.jpg" alt="" width="800"></center>
-
-[Arquivos](https://github.com/ThayaneMoreira/MaratonaPowerBI/tree/master/MaratonaPowerBI)
