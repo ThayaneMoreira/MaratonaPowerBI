@@ -1,6 +1,6 @@
 # Maratona Power BI
 
-A maratona, ministrada pelo Thiago Moraes, especialista Power BI e Sócio e Fundador da Proeng Soluções e Treinamento contou com 4 aulas onde temas como DAX, ETL, Tabelas Fato e Dimensão e Relacionamentos foram amplamentes discutidos.
+A maratona, ministrada pelo Thiago Moraes, especialista Power BI e Sócio e Fundador da Proeng Soluções e Treinamento contou com 4 aulas onde temas como DAX, ETL, Tabelas Fato e Dimensão e Relacionamentos foram amplamente discutidos.
 
 ## Estudo de caso:
 ### Vendas no período de 2016 a 2019
